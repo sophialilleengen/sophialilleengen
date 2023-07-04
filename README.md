@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Sophia (she/her)
 
-I am a final-year astrophysics PhD student and the University of Surrey and a former Pre-Doc at the CCA/Flatiron Institute in NYC. I am interested in understanding stellar streams to learn more about the dark matter around the Milky Way, and contributing to open science.
+I am a postdoctoral research associate in astrophysics at the Institute for Computational Cosmology at Durham University. I completed my PhD at the University of Surrey and am a former Pre-Doc at the Center for Computational Astrophysics/Flatiron Institute in NYC. I am interested in understanding stellar streams to learn more about the dark matter around the Milky Way, and contributing to open science.
 
 <!--
 **sophialilleengen/sophialilleengen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
